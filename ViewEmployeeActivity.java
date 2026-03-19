@@ -14,7 +14,7 @@ public class ViewEmployeeActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setTitle("Reg No: 23ITR047");   // Change to your register number
+        setTitle("Reg No: 23ITL003");   // Change to your register number
         setContentView(R.layout.activity_view_employee);
 
         TextView tvDetails = findViewById(R.id.tvDetails);
